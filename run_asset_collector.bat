@@ -2,7 +2,7 @@
 REM Asset Collector Download and Run Script
 REM This script downloads the latest Asset Collector from GitHub, runs it, and cleans up
 REM Author: Marvin De Los Angeles, CIT Automation / AI / UX
-REM Repository: https://github.com/emulexoar/Asset_Collector
+REM Repository: https://github.com/emulexoar/CIT-Asset-Collector/archive/refs/heads/main.zip
 
 echo ======================================================
 echo    Asset Collector - Download and Run Script
